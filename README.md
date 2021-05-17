@@ -1,12 +1,12 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+A table that consumes an api.
 
 
 ## Demo
 
-Insert gif or link to demo
+https://estate-intell.netlify.app/
 
   
 ## Deployment
@@ -14,7 +14,7 @@ Insert gif or link to demo
 To deploy this project run
 
 ```bash
-  npm run deploy
+  npm run build
 ```
 
   
@@ -23,13 +23,13 @@ To deploy this project run
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/shoptsc/estate_intel.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd estate_intel
 ```
 
 Install dependencies
@@ -41,7 +41,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run serve
 ```
 
   
