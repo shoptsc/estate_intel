@@ -6,7 +6,7 @@ A brief description of what this project does and who it's for
 
 ## Demo
 
-https://estate-intell.netlify.app/
+Insert gif or link to demo
 
   
 ## Deployment
